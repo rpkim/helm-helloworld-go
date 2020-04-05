@@ -4,6 +4,7 @@ description: this is a sample helm chart for testing
 type: application
 version: 0.1.0
 appVersion: latest
+repository: github.com/rpkim/helm-helloworld-go
 maintainers:
 - name: jay kim
   email: rpkim.jay@gmail.com
