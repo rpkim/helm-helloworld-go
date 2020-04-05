@@ -1,5 +1,9 @@
 apiVersion: v2
 name: helloworld-go
+description: this is a sample helm chart for testing
 type: application
 version: 0.1.0
 appVersion: latest
+maintainers:
+- name: jay kim
+  email: rpkim.jay@gmail.com
